@@ -20,7 +20,7 @@ npm run dev<br>
 it run frontend on http://localhost:3000/ <br>
 backend: Server running on port: 5001 <br>
 
-#API Endpoints <br> <br>
+#API Endpoints <br> 
 
 GET	/api/todos	Get all todos <br>
 POST	/api/todos	Add new todo <br>
