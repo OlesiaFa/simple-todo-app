@@ -1,28 +1,28 @@
-## simple-todo-app
+# simple-todo-app
 
 This is a simple Todo application built with **React (frontend)** and **Node.js/Express (backend)**. It allows users to create, delete, and toggle todos with a simple user interface.
 
-# Installation
+## Installation
 
-#1.Clone the repository
-git clone https://github.com/OlesiaFa/simple-todo-app.git
-cd simple-todo-app
+#1.Clone the repository <br>
+git clone https://github.com/OlesiaFa/simple-todo-app.git <br>
+cd simple-todo-app <br>
 
-#2. Install backend dependencies
-cd simple-todo-app
-npm install
+#2. Install backend dependencies <br> <br>
+cd simple-todo-app <br>
+npm install <br> <br>
 
-cd ../client
-npm install
+cd ../client <br>
+npm install <br>
 
-#3.Start the full app (client+server) from the root app
-npm run dev
-it run frontend on http://localhost:3000/
-backend: Server running on port: 5001
+#3.Start the full app (client+server) from the root app <br>
+npm run dev<br>
+it run frontend on http://localhost:3000/ <br>
+backend: Server running on port: 5001 <br>
 
-#API Endpoints
+#API Endpoints <br> <br>
 
-GET	/api/todos	Get all todos
-POST	/api/todos	Add new todo
-PUT	/api/todos/:id	Toggle todo completion
-DELETE	/api/todos/:id	Delete a todo
+GET	/api/todos	Get all todos <br>
+POST	/api/todos	Add new todo <br>
+PUT	/api/todos/:id	Toggle todo completion <br>
+DELETE	/api/todos/:id	Delete a todo<br>
