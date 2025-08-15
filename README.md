@@ -1,4 +1,4 @@
-# simple-todo-app
+# Simple-todo-app
 
 This is a simple Todo application built with **React (frontend)** and **Node.js/Express (backend)**. It allows users to create, delete, and toggle todos with a simple user interface.
 
